@@ -297,7 +297,7 @@ input{
     display:grid;
     grid-template-columns: 1fr 4fr;
 }
-.page1 img{
+.content img{
     width: 348px;
 }
 main{
